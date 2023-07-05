@@ -1,2 +1,0 @@
-# ProgrammingChallenge
-Prodyna Programming Challenge
